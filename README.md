@@ -70,8 +70,6 @@ This project demonstrates real-world AI automation, not just prompt usage.
 - AI-generated output
 - Apps Script logic
 
-(See images in this repository)
-
 ---
 
 ## 💡 Use Cases
